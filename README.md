@@ -45,6 +45,8 @@ cd k010/backend/
 npm install
 node server.js
 ```
+username: admin
+password: admin
 
 ## Author
 
